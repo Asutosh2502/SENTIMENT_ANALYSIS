@@ -49,7 +49,7 @@ The [Sentiment140 dataset](https://www.kaggle.com/datasets/kazanova/sentiment140
 
 ## ✍️ Author
 
-**Aaditya Pradhan**  
+**Asutosh Pattnaik**  
 *B.Tech CSE, CV Raman Global University*  
 *Passionate about AI, NLP, and data science.*
 
